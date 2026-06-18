@@ -166,28 +166,6 @@ export GOOGLE_API_KEY="YOUR_API_KEY"
 
 ---
 
-## ▶️ Running the Project
-
-### Start ADK
-
-```bash
-adk web
-```
-
-Open:
-
-```text
-http://localhost:8000
-```
-
-### Run Agent
-
-```bash
-adk run llm_auditor
-```
-
----
-
 ## 🧪 Example 1
 
 ### Input
