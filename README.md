@@ -111,10 +111,6 @@ TruthLens-AI/
 └── .gitignore
 ```
 
-```
-
----
-
 ## 🛠 Tech Stack
 
 ### Frameworks
