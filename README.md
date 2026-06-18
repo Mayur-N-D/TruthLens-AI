@@ -145,25 +145,6 @@ git clone https://github.com/yourusername/truthlens-ai.git
 cd truthlens-ai
 ```
 
-### Create Virtual Environment
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Configure API Keys
-
-```bash
-export GOOGLE_API_KEY="YOUR_API_KEY"
-```
-
 ---
 
 ## 🧪 Example 1
